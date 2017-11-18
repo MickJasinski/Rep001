@@ -1,0 +1,11 @@
+.container h1 {
+	margin-bottom: 40px;
+	padding-bottom: 10px;
+	border-bottom: 2px solid black;
+}
+
+.textbox {
+	border: 4px solid #eee;
+	padding: 16px;
+	background-color: white;
+}
