@@ -1,2 +1,2 @@
 # Rep001
-https://nazwa-uzytkownika.github.io/
+https://mickjasinski.github.io/Rep001/
