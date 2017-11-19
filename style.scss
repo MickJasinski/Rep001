@@ -1,7 +1,8 @@
 h1 {
-	display: inline-block;
+	display: flex;
 	padding: 10px 40px;
 	font-size: 50px;
+	justify-content: center;
 	background-color: #ddd;
 	border-radius: 15px;
 }
