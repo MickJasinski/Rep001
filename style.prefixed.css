@@ -1,8 +1,12 @@
 h1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   padding: 10px 40px;
   font-size: 50px;
-  justify-content: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   background-color: #ddd;
   border-radius: 15px; }
 
@@ -11,4 +15,4 @@ h1 {
   padding: 16px;
   background-color: white; }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.prefixed.css.map */
